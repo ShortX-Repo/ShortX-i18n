@@ -250,7 +250,7 @@
   "ui.fact.pkg.stop.running.any": "任意應用",
   "ui.fact.pkg.stop.running.specific": "定的應用",
   "ui.fact.app.installed": "應用安裝",
-  "ui.fact.app.uninstalled": "用卸載",
+  "ui.fact.app.uninstalled": "應用卸載",
   "ui.fact.app.updated": "應用更新",
   "ui.fact.system.settings": "設定變化",
   "ui.fact.broadcast": "廣播",
