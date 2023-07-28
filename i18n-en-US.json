@@ -173,6 +173,8 @@
   "ui.common.dup": "Duplicate",
   "ui.common.share": "Share",
   "ui.common.settings": "Settings",
+  "ui.common.screen.l": "Landscape",
+  "ui.common.screen.p": "Portrait",
   "ui.common.empty.click.retry": "No data loaded. click to retry.",
   "ui.common.error.click.retry": "Error. click to retry.",
   "ui.common.error.view.message": "View error message",
