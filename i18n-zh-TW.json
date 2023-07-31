@@ -304,6 +304,7 @@
   "ui.keycode.label.power": "電源",
   "ui.keycode.label.home": "主頁",
   "ui.keycode.label.back": "返回",
+  "ui.action.enable.universal.copy": "全局复制",
   "ui.action.read.clipboard": "讀取剪貼板",
   "ui.action.write.clipboard": "寫入剪貼板",
   "ui.action.show.toast": "顯示吐司",
