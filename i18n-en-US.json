@@ -535,6 +535,8 @@
   "ui.action.remote": "Online",
   "ui.action.all": "All",
   "ui.action.recent": "Recent",
+  "ui.settings.settings.catcher": "Settings catcher",
+  "ui.settings.settings.catcher.summary": "Record System settings write and read records. \nNeed to select Settings Provider app scope in Xposed Manager and reboot device",
   "ui.settings.sb.tile": "QS tile",
   "ui.settings.sb.tile.summary": "View and manage QS tiles",
   "ui.settings.sb.tile.tip": "You can select tiles as a Rule trigger when add/edit a rule, and you can change Tile style in this page\n\nLimited by the system binding policy, sometimes clicking a tile may take a few seconds to respond, you can try to enable QS Tile opt in ShortX settings",
