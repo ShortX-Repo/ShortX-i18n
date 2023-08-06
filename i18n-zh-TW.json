@@ -457,7 +457,7 @@
   "ui.action.while.loop.action.message": "循環動作",
   "ui.action.write.global.var": "寫入全局變量",
   "ui.action.create.global.var": "新建全局變量",
-  "ui.action.delete.global.var": "新建全局變量",
+  "ui.action.delete.global.var": "删除全局變量",
   "ui.action.select.global.var": "輸入變量名稱或選擇",
   "ui.action.select.global.var.op": "選擇操作",
   "ui.action.select.global.var.payload": "輸入值",
