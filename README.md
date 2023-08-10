@@ -1,2 +1,2 @@
-# ShortX-i8n
+# ShortX-i18n
 Translation files for ShortX app
