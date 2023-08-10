@@ -521,6 +521,8 @@
   "ui.action.tts": "朗读文本",
   "ui.action.set.wallpaper": "设置壁纸",
   "ui.action.set.wallpaper.url": "输入壁纸文件的文件路径或Content url \ne.g. /sdcard/Download/1.png \ne.g. content://image/1",
+  "ui.action.set.wallpaper.crop": "裁剪",
+  "ui.action.set.wallpaper.crop.summary": "裁剪到适合屏幕大小的尺寸；如果不裁剪，图片过大时设置壁纸可能会失败",
   "ui.action.show.dialog": "顯示對話方塊",
   "ui.action.dialog.message": "對話方塊資訊",
   "ui.action.dialog.title": "標題",
