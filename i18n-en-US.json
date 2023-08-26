@@ -494,6 +494,7 @@
   "ui.action.map.poi": "Poi (optional)",
   "ui.action.map.nav.bus.query": "Query bus",
   "ui.action.map.nav.bus.query.city": "City",
+  "ui.action.map.nav.bus.query.city.placeholder": "",
   "ui.action.map.nav.bus.query.bus": "Bus",
   "ui.action.stop.app": "Force stop app",
   "ui.action.stop.app.by.pkg": "Force stop app (Input)",

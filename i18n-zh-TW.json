@@ -493,6 +493,7 @@
   "ui.action.map.poi": "商圈（可選）",
   "ui.action.map.nav.bus.query": "查询公交",
   "ui.action.map.nav.bus.query.city": "城市",
+  "ui.action.map.nav.bus.query.city.placeholder": "高德地图需要写城市全名，例如：成都市，不能只写成都",
   "ui.action.map.nav.bus.query.bus": "公交",
   "ui.action.stop.app": "強行停止應用",
   "ui.action.stop.app.by.pkg": "強行停止應用（动态）",
