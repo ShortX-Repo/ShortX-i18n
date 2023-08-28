@@ -443,7 +443,7 @@
   "ui.action.find.click.view.by.text.timeout.description": "設定檢索文本的最長等待時間（毫秒）",
   "ui.action.find.click.view.by.id": "點擊ID視圖",
   "ui.action.find.click.view.by.id.is.regex": "正則",
-  "ui.action.find.click.view.by.id.text": "ID",
+  "ui.action.find.click.view.by.id.id": "ID",
   "ui.action.find.click.view.by.id.timeout": "超時",
   "ui.action.find.click.view.by.id.timeout.description": "設定檢索ID的最長等待時間（毫秒）",
   "ui.action.input.tap": "點擊坐標",
