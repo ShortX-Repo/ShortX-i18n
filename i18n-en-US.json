@@ -83,6 +83,8 @@
   "ui.fact.has.found.node.on.screen.pkg.description": "Input * means scan for all packages",
   "ui.fact.has.found.node.on.screen.matcher": "Matchers",
   "ui.fact.has.found.node.on.screen.matcher.description": "If you set multiple matchers, it will trigger on any one of the matcher matches",
+  "ui.fact.has.found.node.on.screen.view.id": "View ID",
+  "ui.fact.has.found.node.on.screen.view.text": "Text",
   "ui.fact.screen.off": "Screen Off",
   "ui.fact.screen.on": "Screen On",
   "ui.fact.screen.user.present": "Screen Unlock",
