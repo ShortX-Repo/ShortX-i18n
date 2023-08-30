@@ -447,6 +447,8 @@
   "ui.action.find.click.view.by.id.id": "ID",
   "ui.action.find.click.view.by.id.timeout": "超時",
   "ui.action.find.click.view.by.id.timeout.description": "設定檢索ID的最長等待時間（毫秒）",
+  "ui.action.find.click.view.matched": "点击发现的视图",
+  "ui.action.find.click.view.matched.description": "点击由 发现页面视图 触发器所发现到视图",
   "ui.action.input.tap": "點擊坐標",
   "ui.action.input.tap.x": "坐標 x",
   "ui.action.input.tap.y": "坐標 y",

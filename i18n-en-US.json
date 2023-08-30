@@ -448,6 +448,8 @@
   "ui.action.find.click.view.by.id.id": "ID",
   "ui.action.find.click.view.by.id.timeout": "Timeout",
   "ui.action.find.click.view.by.id.timeout.description": "Set the max waiting time by millis for waiting ID",
+  "ui.action.find.click.view.matched": "Click matched view",
+  "ui.action.find.click.view.matched.description": "Click the view matched by Found View On Screen Fact",
   "ui.action.input.tap": "Tap screen",
   "ui.action.input.tap.x": "Screen x",
   "ui.action.input.tap.y": "Screen y",
