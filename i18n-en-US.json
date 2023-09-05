@@ -206,6 +206,7 @@
   "ui.common.new.set": "New Collection",
   "ui.common.select.set": "Select Collection",
   "ui.common.move.to.set": "Move to Collection",
+  "ui.common.move.out.set": "Move out of Collection",
   "ui.common.only.show": "Only show",
   "ui.common.show.all": "Show all",
   "ui.common.copied.to.clipboard": "Has been copied to clipboard",
