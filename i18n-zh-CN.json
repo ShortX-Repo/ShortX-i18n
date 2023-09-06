@@ -721,6 +721,7 @@
   "ui.pkg.set.prebuilt": "预置",
   "ui.active.dialog.message": "请在Xposed管理器中启用{app_name}",
   "ui.delete.dialog.confirm": "你确定要删除{wht}吗？",
+  "ui.dismiss.dialog.confirm": "你确定要解散{wht}吗？",
   "ui.global.var.title": "全局变量",
   "ui.global.var.name": "变量名称",
   "ui.global.var.name.description": "尽量使用英文，当你需要读取、写入某个变量时，会用到这个名称\n名称具有唯一性，两个变量名称不能一样",
