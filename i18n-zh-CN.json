@@ -404,6 +404,8 @@
   "ui.action.adjust.volume.unmute": "取消静音",
   "ui.action.adjust.volume.toggle.mute": "切换 静音/取消静音",
   "ui.action.adjust.volume.show.ui": "显示音量调节UI",
+  "ui.action.click.tile": "点击磁贴",
+  "ui.action.click.tile.is.long.click": "长按",
   "ui.action.inject.keycode": "模拟按键",
   "ui.action.custom.keycode": "自定义keycode",
   "ui.action.show.danmu": "显示弹幕",
