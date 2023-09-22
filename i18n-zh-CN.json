@@ -519,6 +519,8 @@
   "ui.action.post.notification.important": "重要通知",
   "ui.action.post.notification.sound": "播放声音",
   "ui.action.post.notification.vibrate": "振动",
+  "ui.action.post.notification.button": "通知按钮",
+  "ui.action.post.notification.on.click": "点击动作",
   "ui.action.while.loop": "While 循环",
   "ui.action.while.loop.repeat": "重复次数",
   "ui.action.while.loop.repeat.message": "设定循环的次数，0表示无限循环",
