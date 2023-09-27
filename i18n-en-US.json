@@ -204,6 +204,7 @@
   "ui.common.flat": "Flat",
   "ui.common.saved": "Saved",
   "ui.common.done": "Done",
+  "ui.common.got.it": "Got it",
   "ui.common.import.from.file": "Import from file",
   "ui.common.import.from.clipboard": "Import from clipboard",
   "ui.common.import.from.url": "Import from url",
