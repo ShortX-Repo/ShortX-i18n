@@ -5,7 +5,7 @@
   "ui.dialog.title.current.app.by.pkg": "應用在前臺（动态）",
   "ui.dialog.title.select.app": "選擇應用",
   "ui.dialog.title.select.slot": "选择SIM卡",
-  "ui.search.title.search.n.items": "蒐索 {count} 個項目",
+  "ui.search.title.search.n.items": "搜索 {count} 個項目",
   "ui.fact.title": "觸發器",
   "ui.fact.select": "添加觸發器",
   "ui.conditions.title": "條件（可选）",
