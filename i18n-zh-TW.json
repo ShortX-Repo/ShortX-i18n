@@ -670,6 +670,7 @@
   "ui.action.media.play.back.pause": "暂停",
   "ui.action.media.play.back.next": "下一曲",
   "ui.action.media.play.back.previous": "上一曲",
+  "ui.action.media.play.back.ff": "快进",
   "ui.action.media.play.back.rewind": "倒带",
   "ui.action.media.play.back.stop": "停止",
   "ui.settings.sb.tile": "快速设置磁贴",

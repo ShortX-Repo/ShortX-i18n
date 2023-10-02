@@ -409,6 +409,7 @@
   "ui.action.media.play.back.pause": "Pause",
   "ui.action.media.play.back.next": "Next",
   "ui.action.media.play.back.previous": "Previous",
+  "ui.action.media.play.back.ff": "Fast forward",
   "ui.action.media.play.back.rewind": "Rewind",
   "ui.action.media.play.back.stop": "Stop",
   "ui.action.click.tile": "Click QS tile",
