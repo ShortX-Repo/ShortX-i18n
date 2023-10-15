@@ -856,6 +856,6 @@
   "ui.common.app.system": "System",
   "ui.common.app.user": "User",
   "ui.common.app.game": "Game",
-  "ui.common.app.xposed.mod": "Xposed mod",
+  "ui.common.app.xposedmodule": "Xposed mod",
   "ui.common.app.all": "All"
 }

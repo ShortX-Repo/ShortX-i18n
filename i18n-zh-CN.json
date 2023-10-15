@@ -855,6 +855,6 @@
   "ui.common.app.system": "系统",
   "ui.common.app.user": "用户",
   "ui.common.app.game": "游戏",
-  "ui.common.app.xposed.mod": "Xposed模块",
+  "ui.common.app.xposedmodule": "Xposed模块",
   "ui.common.app.all": "全部"
 }
