@@ -887,5 +887,6 @@
   "ui.common.app.game": "Game",
   "ui.common.app.xposedmodule": "Xposed mod",
   "ui.common.app.all": "All",
-  "ui.common.sensor.tip.title": "{count} sensor is listening"
+  "ui.common.sensor.tip.title": "{count} sensor is listening",
+  "ui.common.picker.pick": "Pick"
 }

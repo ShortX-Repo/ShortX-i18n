@@ -886,5 +886,6 @@
   "ui.common.app.game": "游戏",
   "ui.common.app.xposedmodule": "Xposed模块",
   "ui.common.app.all": "全部",
-  "ui.common.sensor.tip.title": "正在监听{count}个传感器"
+  "ui.common.sensor.tip.title": "正在监听{count}个传感器",
+  "ui.common.picker.pick": "选择"
 }
