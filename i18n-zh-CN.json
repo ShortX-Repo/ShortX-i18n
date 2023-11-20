@@ -417,6 +417,7 @@
     "ui.action.biometric.verify.deny.action": "验证失败时",
     "ui.action.biometric.verify.title": "标题",
     "ui.action.biometric.verify.subtitle": "子标题",
+    "ui.action.shortcut": "应用快捷方式",
     "ui.action.show.toast": "显示吐司",
     "ui.action.start.last.app": "打开上一个应用",
     "ui.action.screen.off": "息屏",

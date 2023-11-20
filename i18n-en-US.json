@@ -411,6 +411,7 @@
     "ui.action.biometric.verify.deny.action": "On denied",
     "ui.action.biometric.verify.title": "Title",
     "ui.action.biometric.verify.subtitle": "Subtitle",
+    "ui.action.shortcut": "Shortcut",
     "ui.action.show.toast": "Show toast",
     "ui.action.start.last.app": "Launch last app",
     "ui.action.screen.off": "Turn screen off",
