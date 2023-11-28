@@ -429,6 +429,7 @@
     "ui.action.enable.view.id.viewer": "查看View详情",
     "ui.action.read.clipboard": "读取剪贴板",
     "ui.action.write.clipboard": "写入剪贴板",
+    "ui.action.get.text.from.node": "读取视图文本",
     "ui.action.biometric.verify": "生物识别验证",
     "ui.action.biometric.verify.allow.action": "验证通过时",
     "ui.action.biometric.verify.deny.action": "验证失败时",
