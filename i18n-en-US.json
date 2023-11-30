@@ -755,6 +755,8 @@
     "ui.settings.sb.tile.tip": "You can select tiles as a Rule trigger when add/edit a rule, and you can change Tile style in this page\n\nLimited by the system binding policy, sometimes clicking a tile may take a few seconds to respond, you can try to enable QS Tile opt in ShortX settings",
     "ui.settings.sb.unused": "Unused",
     "ui.settings.sb.used": "Used by {title}",
+    "ui.settings.sb.bond.to.toggle": "Bond QS tile",
+    "ui.settings.sb.bond.to.toggle.pick": "Pick tile",
     "ui.settings.sb.tile.opt": "QS tile opt",
     "ui.settings.sb.tile.opt.summary": "Try to optimize the response speed of the QS tile click, you need to select the System UI scope, if you find that the optimization is not work, please report the problem and the log file to the developer",
     "ui.settings.danmu": "Danmu",
