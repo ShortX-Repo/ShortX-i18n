@@ -951,6 +951,8 @@
     "ui.global.var.access.help.message": "You can access it via {name} in UI actions or MVEL expressions",
     "ui.global.var.secrets.title": "Secret var",
     "ui.global.var.secrets.message": "A secret Global var will be encryped on peristent, and it can not backup/restore",
+    "ui.global.var.created.by.user": "Manually",
+    "ui.global.var.created.by.rule": "By {rule}",
     "ui.local.var.title": "Global var",
     "ui.local.var.name": "Var name",
     "ui.local.var.name.description": "Please use English name, name will be used when Write/read a var\nName is unique",
@@ -1029,6 +1031,6 @@
     "ui.rule.ins.id.gen.static.description": "Static string id",
     "ui.rule.ins.id.gen.default.description": "By default, same rule use the same unique id",
     "ui.rule.ins.id.gen.string.description": "Dynamic string, support global var and context data",
-    "ui.rule.action.secure.warning.title": "",
+    "ui.rule.action.secure.warning.title": "Suggest checking the action",
     "ui.rule.action.secure.warning.message": ""
 }
