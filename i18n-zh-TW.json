@@ -1027,5 +1027,7 @@
     "ui.rule.ins.id.gen.mvel.description": "通过MVEL生成实例ID",
     "ui.rule.ins.id.gen.static.description": "固定ID",
     "ui.rule.ins.id.gen.default.description": "自动为每个指令分配固定的独一无二的ID",
-    "ui.rule.ins.id.gen.string.description": "动态ID，支持引用变量"
+    "ui.rule.ins.id.gen.string.description": "动态ID，支持引用变量",
+    "ui.rule.action.secure.warning.title": "建议检查动作",
+    "ui.rule.action.secure.warning.message": "请仔细检查每个动作是否包含恶意操作，尤其是MVEL，Shell，JS动作"
 }

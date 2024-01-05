@@ -1028,5 +1028,7 @@
     "ui.rule.ins.id.gen.mvel.description": "Generate rule id with MVEL",
     "ui.rule.ins.id.gen.static.description": "Static string id",
     "ui.rule.ins.id.gen.default.description": "By default, same rule use the same unique id",
-    "ui.rule.ins.id.gen.string.description": "Dynamic string, support global var and context data"
+    "ui.rule.ins.id.gen.string.description": "Dynamic string, support global var and context data",
+    "ui.rule.action.secure.warning.title": "",
+    "ui.rule.action.secure.warning.message": ""
 }
