@@ -24,6 +24,8 @@
     "ui.conditions.screen.orientation.p": "屏幕为竖屏",
     "ui.conditions.vpn.is.connected": "VPN已连接",
     "ui.conditions.time.in.range": "当前时间段",
+    "ui.conditions.wifi.signal": "Wifi信号",
+    "ui.conditions.wifi.signal.level": "Wifi信号等级（0-{max}）",
     "ui.conditions.wifi.connected": "Wifi已连接",
     "ui.conditions.wifi.connected.target": "输入SSID，当连接到该AP时，条件满足；输入*可表示任意的SSID，也就是说只要Wifi连接了就满足条件",
     "ui.conditions.wifi.not.connected": "Wifi未连接",
