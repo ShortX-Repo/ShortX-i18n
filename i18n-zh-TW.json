@@ -361,6 +361,8 @@
     "ui.fact.app.become.bg": "應用回到後臺",
     "ui.fact.app.become.fg": "應用進入前臺",
     "ui.fact.app.bg.state": "用前後臺",
+    "ui.fact.wifi.signal.changed": "Wifi信号变化",
+    "ui.fact.wifi.signal.changed.message": "当Wifi信号等级发生变化时触发，请输入要匹配的信号等级，从0到{max}；输入一个负数表示任意等级都会触发",
     "ui.fact.wifi.state.changed": "Wifi設定",
     "ui.fact.wifi.choose.ssid": "或者从扫描结果中选择",
     "ui.fact.wifi.connect.to": "Wifi连接到",

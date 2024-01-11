@@ -361,6 +361,8 @@
     "ui.fact.app.become.bg": "App Become Background",
     "ui.fact.app.become.fg": "App Become Foreground",
     "ui.fact.app.bg.state": "App task",
+    "ui.fact.wifi.signal.changed": "Wifi signal change",
+    "ui.fact.wifi.signal.changed.message": "Trigger when the WiFi signal changes. Please input the target WiFi level from 0 to {max}. Inputting a negative number will trigger on any level",
     "ui.fact.wifi.state.changed": "Wifi setting",
     "ui.fact.wifi.choose.ssid": "Or choose from scan results",
     "ui.fact.wifi.connect.to": "Wifi connected to",
