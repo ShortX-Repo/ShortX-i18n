@@ -14,6 +14,8 @@
     "ui.conditions.true.desc": "触发器触发后，动作会无条件执行",
     "ui.conditions.the.xx.time.within": "第N次做X事",
     "ui.conditions.the.xx.time.within.message": "某个时期内第X次做XX事，当该条件所属的指令满足所有条件后，次数会自增",
+    "ui.conditions.the.xx.time.within.time": "次数数值",
+    "ui.conditions.the.xx.time.within.time.op": "次数要求",
     "ui.conditions.the.xx.time.within.today": "今天",
     "ui.conditions.the.xx.time.within.today.am": "今天上午",
     "ui.conditions.the.xx.time.within.today.pm": "今天下午",
