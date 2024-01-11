@@ -16,6 +16,7 @@
     "ui.conditions.the.xx.time.within.message": "Perform XX action for the Xth time within a certain period. When all the Rule conditions belonging to this trigger are matched, the count will increment automatically",
     "ui.conditions.the.xx.time.within.time": "Xth value",
     "ui.conditions.the.xx.time.within.time.op": "Operation",
+    "ui.conditions.the.xx.time.within.scope": "When",
     "ui.conditions.the.xx.time.within.today": "Today",
     "ui.conditions.the.xx.time.within.today.am": "Today AM",
     "ui.conditions.the.xx.time.within.today.pm": "Today PM",
