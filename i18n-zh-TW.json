@@ -1037,6 +1037,8 @@
     "ui.shortx.uninstalled.message": "你想保留ShortX的数据吗？",
     "ui.shortx.uninstalled.keep": "保留",
     "ui.shortx.uninstalled.clear": "清除",
+    "ui.shortx.force.disabled": "ShortX功能已禁用",
+    "ui.shortx.force.disabled.message": "你在10秒内按下电源12次，为应对紧急情况，ShortX自动指令已禁用。你可进入ShortX中重新开启",
     "ui.geeks.options": "极客选项",
     "ui.rule.extract.as.da": "另存为一键指令",
     "ui.rule.ins.id.gen": "指令实例ID",
