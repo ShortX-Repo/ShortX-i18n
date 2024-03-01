@@ -950,6 +950,8 @@
     "ui.settings.backup.error.action": "Grant",
     "ui.settings.toast.restore.complete": "Restore success",
     "ui.settings.toast.restore.error": "Restore fail: {err}",
+    "ui.settings.force.disable.by.key.press.title": "Emergency disable",
+    "ui.settings.force.disable.by.key.press.description": "Pressing the power button 12 times continuously within 10 seconds can emergency disable ShortX's Rule feature",
     "ui.settings.engine": "Engine",
     "ui.settings.engine.enable": "Enable",
     "ui.settings.rule.engine.shell": "Shell engine",

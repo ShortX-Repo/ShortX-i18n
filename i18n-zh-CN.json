@@ -949,6 +949,8 @@
     "ui.settings.backup.error.action": "设置",
     "ui.settings.toast.restore.complete": "数据恢复成功",
     "ui.settings.toast.restore.error": "数据恢复失败：{err}",
+    "ui.settings.force.disable.by.key.press.title": "紧急停用",
+    "ui.settings.force.disable.by.key.press.description": "10秒内连续按下电源键12次可紧急停用ShortX的自动指令功能",
     "ui.settings.engine": "引擎",
     "ui.settings.engine.enable": "我要启用",
     "ui.settings.rule.engine.shell": "Shell命令引擎",
