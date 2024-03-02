@@ -538,6 +538,7 @@
     "ui.action.show.clip.board": "Universal clipboard ",
     "ui.action.show.clip.board.clear.all": "Clear",
     "ui.action.connect.wifi": "Connect wifi",
+    "ui.action.disconnect.wifi": "Disconnect wifi",
     "ui.action.stay.awake": "Stay awake",
     "ui.action.show.danmu": "Show danmu",
     "ui.action.danmu.text": "Message",

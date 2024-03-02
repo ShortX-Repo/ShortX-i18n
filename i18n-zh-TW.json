@@ -530,6 +530,7 @@
     "ui.action.show.clip.board": "全局剪贴板",
     "ui.action.show.clip.board.clear.all": "清除全部",
     "ui.action.connect.wifi": "连接wifi",
+    "ui.action.disconnect.wifi": "断开wifi",
     "ui.action.stay.awake": "保持屏幕常亮",
     "ui.action.show.danmu": "顯示彈幕",
     "ui.action.danmu.text": "文字",
