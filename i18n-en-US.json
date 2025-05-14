@@ -263,6 +263,8 @@
     "ui.fact.key.gesture.keylongpress": "Long Press",
     "ui.fact.screen.gesture": "Screen Gesture",
     "ui.fact.edge.gesture": "Edge Gesture",
+    "ui.fact.edge.gesture.front.app": "Front app contraint",
+    "ui.fact.edge.gesture.front.app.any": "Any front app",
     "ui.fact.edge.gesture.position": "Gesture position",
     "ui.fact.edge.gesture.gesture": "Gesture",
     "ui.fact.edge.gesture.doubletap": "Double tap",

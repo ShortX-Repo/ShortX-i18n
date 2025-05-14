@@ -1075,6 +1075,8 @@
     "ui.settings.key": "按键",
     "ui.settings.key.long.press.timeout": "长按检测超时",
     "ui.settings.edge.gesture": "边缘手势",
+    "ui.fact.edge.gesture.front.app": "前台应用限制",
+    "ui.fact.edge.gesture.front.app.any": "不限制前台应用",
     "ui.settings.edge.gesture.summary": "调整边缘手势大小，滑动距离等设置",
     "ui.settings.edge.gesture.size": "触摸区域厚度",
     "ui.settings.edge.gesture.swipe.distance": "触发滑动的距离阈值",

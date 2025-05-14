@@ -263,6 +263,8 @@
     "ui.fact.key.gesture.keylongpress": "長按",
     "ui.fact.screen.gesture": "屏幕手势",
     "ui.fact.edge.gesture": "邊緣手勢",
+    "ui.fact.edge.gesture.front.app": "前台应用限制",
+    "ui.fact.edge.gesture.front.app.any": "不限制前台应用",
     "ui.fact.edge.gesture.position": "手勢位置",
     "ui.fact.edge.gesture.gesture": "手勢",
     "ui.fact.edge.gesture.doubletap": "雙按",
