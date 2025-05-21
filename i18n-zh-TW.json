@@ -33,6 +33,7 @@
     "ui.conditions.service.running": "服務正在執行",
     "ui.conditions.has.audio.focus": "程式正在播放音訊",
     "ui.conditions.screen.on": "螢幕亮着",
+    "ui.fact.cpu.availability": "CPU可用状态",
     "ui.fact.sun.rise.set": "日出日落",
     "ui.fact.sun.rise.set.rise": "日出",
     "ui.fact.sun.rise.set.set": "日落",

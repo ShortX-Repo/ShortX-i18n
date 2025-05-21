@@ -28,6 +28,7 @@
     "ui.conditions.eva.context.var": "Check context var",
     "ui.conditions.eva.local.var": "Check local var",
     "ui.conditions.screen.on": "Screen is ON",
+    "ui.fact.cpu.availability": "CPU availability",
     "ui.fact.sun.rise.set": "Sun rise/set",
     "ui.fact.sun.rise.set.rise": "Sub rise",
     "ui.fact.sun.rise.set.set": "Sub set",
