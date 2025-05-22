@@ -1361,7 +1361,7 @@
     "ui.system.env.front.app.pkg.name": "Front app package name",
     "ui.system.env.uuid": "UUID",
     "ui.system.env.random.int": "Random number",
-    "ui.system.env..clipboard.text": "Clipboard text",
+    "ui.system.env.clipboard.text": "Clipboard text",
     "ui.system.env.cpu.availability.percent": "Cpu availability percent",
     "ui.system.env.mem.availability.percent": "Mem availability percent",
     "ui.system.env.swap.availability.percent": "Swap availability percent",

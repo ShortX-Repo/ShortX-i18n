@@ -1360,7 +1360,7 @@
     "ui.system.env.front.app.pkg.name": "前台应用包名",
     "ui.system.env.uuid": "UUID",
     "ui.system.env.random.int": "随机数字",
-    "ui.system.env..clipboard.text": "剪贴板文字",
+    "ui.system.env.clipboard.text": "剪贴板文字",
     "ui.system.env.cpu.availability.percent": "CPU可用百分比",
     "ui.system.env.mem.availability.percent": "内存可用百分比",
     "ui.system.env.swap.availability.percent": "Swap可用百分比",
