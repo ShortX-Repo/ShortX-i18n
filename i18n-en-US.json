@@ -719,6 +719,7 @@
     "ui.action.ocr.detect": "OCR detect",
     "ui.action.rect.src": "Image source",
     "ui.action.rect.src.path": "Local photo",
+    "ui.action.rect.src.fullscreen": "Fullscreen",
     "ui.action.rect.src.select.screen": "Select screen region",
     "ui.action.rect.src.rect": "Input Rect",
     "ui.action.rect.src.rect.format": "Format: left top right bottom \nYou can create a Rule and use the select screen region action to capture the region",
